@@ -1,4 +1,3 @@
-
 let numeros = [1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8];
 let tarjetas_mostrar = 0;
 let tarjeta1 = null
@@ -9,7 +8,6 @@ let movimiento = 0
 let aciertos = 0
 let tiempo = false
 let timer = 30
-let puntos = 0
 let intervalo_detener = null
 let mostrar_acierto = document.getElementById("acierto")
 let mostrar_movimiento = document.getElementById('movimiento')
